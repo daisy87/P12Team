@@ -16,8 +16,8 @@ public class Loading extends JPanel {
  //  JButton LoadConfirm;    
    
    public Loading() {
-      LoadImage = Toolkit.getDefaultToolkit().getImage("c:\\image\\loading3.gif");
-      back = Toolkit.getDefaultToolkit().getImage("c:\\image\\back.png");
+      LoadImage = Toolkit.getDefaultToolkit().getImage("image/loading3.gif");
+      back = Toolkit.getDefaultToolkit().getImage("image/back.png");
       LoadTitle = new JLabel("Loading...");
      // LoadConfirm = new JButton("Ω√¿€!");
       LoadTitle.setFont(new Font("Courier New", Font.BOLD, 50));

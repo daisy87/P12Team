@@ -8,7 +8,7 @@ public class GameRule extends JPanel{
 	public GameRule()
 	{	
 
-		back = Toolkit.getDefaultToolkit().getImage("c:\\image\\gr.png");
+		back = Toolkit.getDefaultToolkit().getImage("C:\\Users\\sist\\GIt\\P12Team\\P12Team\\image\\gr.png");
 	
 		b1=new JButton("돌아가기 >>");
 		
